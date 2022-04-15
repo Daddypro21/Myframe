@@ -1,0 +1,16 @@
+{
+    "name": "daddypro21/myframe",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "App\\":"app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daddypro21",
+            "email": "sndemapro@gmail.com"
+        }
+    ],
+    "require": {}
+}
